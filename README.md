@@ -1,0 +1,2 @@
+# keras_GourmetRating
+営業プログラミング初心者の口コミ分析の足掻き
